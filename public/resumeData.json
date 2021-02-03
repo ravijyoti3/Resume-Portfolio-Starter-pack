@@ -1,20 +1,20 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Ravi Jyoti",
+    "occupation": "Learner",
+    "description": "I eat, sleep and breathe code",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "bio": "Hi there! I am Ravi! You might also know me as the web guy. I've been coding for over 3 years now. As a Full Stack developer I've worked with startups to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
     "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "email": "ravijyoti4@gmail.com",
+    "phone": "+91 8529474388",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Nera - 122",
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip": "682022"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "https://portal.lyceuma.com",
     "resumedownload": "http://papareact.com",
     "social": [
       {
@@ -29,17 +29,17 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/ravijyoti3",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/code.quick/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/ravijyoti3",
         "className": "fa fa-github"
       }
     ]
@@ -56,8 +56,8 @@
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
+        "company": "lycuema",
+        "title": "Web Developer",
         "years": "May 2019 - Present",
         "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
       }
@@ -65,15 +65,15 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "30%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "50%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "40%"
       },
       {
         "name": "JavaScript",
@@ -81,41 +81,41 @@
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Examination Portal",
         "category": "",
         "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "url": "https://portal.lyceuma.com"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Disaster Response System",
         "category": "",
         "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "url": "https://github.com/ravijyoti3"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "IBM Recommendation Engine",
         "category": "",
         "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "url": "https://github.com/ravijyoti3"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Ravi is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Amit Kuamr"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Learning with Ravi has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Aman Kummar"
       }
     ]
   }
